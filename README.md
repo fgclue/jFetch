@@ -1,2 +1,2 @@
 # jFetch
-A simple clone of neofetch made in Python3
+A clone of neofetch made in Python3.
